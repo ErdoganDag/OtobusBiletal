@@ -1,0 +1,16 @@
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.csproj.AssemblyReference.cache
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.csproj.SuggestedBindingRedirects.cache
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Form1.resources
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Properties.Resources.resources
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Route.resources
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.csproj.GenerateResource.cache
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.csproj.CoreCompileInputs.cache
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\bin\Debug\OtobüsBiletal.exe.config
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\bin\Debug\OtobüsBiletal.exe
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\bin\Debug\OtobüsBiletal.pdb
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.exe
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.pdb
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Cars.resources
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Driver.resources
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Tickets.resources
+C:\Users\smatikv2\source\repos\OtobüsBiletal\OtobüsBiletal\obj\Debug\OtobüsBiletal.Voyage.resources
